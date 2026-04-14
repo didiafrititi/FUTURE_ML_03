@@ -118,7 +118,7 @@ streamlit run app/app.py
 
 ## 🌐 Live Demo
 
-https://futureml03-tghrgazu8bamv2t9hs3d5h.streamlit.app/
+
 
 ---
 
