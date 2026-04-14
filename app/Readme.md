@@ -151,6 +151,12 @@ https://futureml03-tghrgazu8bamv2t9hs3d5h.streamlit.app/
 
 ---
 
+## Working datasets link
+
+https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset
+https://www.kaggle.com/datasets/ravindrasinghrana/job-description-dataset
+https://www.kaggle.com/datasets/PromptCloudHQ/us-jobs-on-monstercom
+
 ## 👩‍💻 Author
 
 **Didia Voule-Frititi**
