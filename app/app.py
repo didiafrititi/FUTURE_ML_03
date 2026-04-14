@@ -1,5 +1,5 @@
 import streamlit as st
-import PyPDF
+import PyPDF2
 import re
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
